@@ -4,7 +4,11 @@ using System.Collections.Generic;
 namespace BigONotationPartial
 {
     class Logarithmic
+<<<<<<< HEAD
     {//
+=======
+    {
+>>>>>>> d49fd5b... confirmar cambios
         static void Main(string[] args)
         {
             Logarithmic logarithmic = new Logarithmic();
