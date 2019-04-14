@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace BigONotationPartial
 {
     class Logarithmic
-    {
+    {//
         static void Main(string[] args)
         {
             Logarithmic logarithmic = new Logarithmic();
